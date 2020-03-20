@@ -42,6 +42,7 @@ int main() {
   // based on keys (names)
   for (map<string, int>::iterator it = mapper.begin(); it != mapper.end(); it++)
     printf("%s %d\n", ((string)it->first).c_str(), it->second);
+// wqs printf need %s is cstring??
 
   // map can also be used like this
   printf("steven's score is %d, grace's score is %d\n",

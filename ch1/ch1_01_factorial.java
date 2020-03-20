@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// import java.util.Scanner; //wqs annotate
 import java.math.BigInteger;
 
 class Main {                          // standard Java class name in UVa OJ
